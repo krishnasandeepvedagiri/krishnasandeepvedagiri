@@ -2,7 +2,7 @@
 - 👀 I’m interested in LEARNING
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking for a Job
-- 📫 Can reach me through: krishnasandeepvedagiri@gmail.com 😁
+- 📫 Can reach me through: krishvedagiri23@gmail.com 😁
 
 <!---
 krishnasandeepvedagiri/krishnasandeepvedagiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
